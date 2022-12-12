@@ -1,13 +1,8 @@
-<a href="https://www.jeongkoo.com/"><img src="https://img.shields.io/badge/WebPorfoilo-link-blue"/></a>
-<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/DocsPorfoilo-link-blue"/></a>
-![https://komarev.com/ghpvc/?username=congchu](https://komarev.com/ghpvc/?username=congchu)
-
-
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;프론트엔드 개발자 오영일입니다. ☺️
 
-✔️ &nbsp;정확한 소통을 위한, **over 커뮤니케이션**과 **over 도큐멘테이션**을 추구합니다.\
-✔️ &nbsp;가이드 문서, 이슈 트래킹, 배포 히스토리 관리 등 문서 작성 능력이 좋습니다.\
-✔️ &nbsp;개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.\
+✔️ &nbsp;명확하고 이해하기 쉬운 코딩 스타일을 만들기 위해 노력합니다.\
+✔️ &nbsp;기술을 공부하고 공유하며 함께 성장하는 삶을 지향합니다.\
+✔️ &nbsp;개발자의 편한 개발보다 **사용자의 편의**를 더 중요하게 생각합니다.
 
 
 <details>
@@ -39,11 +34,9 @@
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=congchu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congchu&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=output777&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/output777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=output777&layout=compact&theme=algolia)](https://github.com/output777/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:cookie00421@gmail.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/jeongkooo"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/minjung.koo2"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:oyi00111@gmail.com"><img src="https://img.shields.io/badge/-oyi00111@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
